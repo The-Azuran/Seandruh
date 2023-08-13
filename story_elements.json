@@ -1,0 +1,53 @@
+{
+  "people": [
+    "a former flame", "an old friend", "a mysterious stranger", "a wise elder",
+    "a rebellious youth", "a curious child", "a talented artist", "a passionate activist",
+    "a cunning thief", "a courageous leader", "a skeptical scientist", "a wandering musician",
+    "a dedicated teacher", "a relentless detective", "a caring nurse", "a fearless explorer",
+    "a thoughtful philosopher", "a charismatic speaker", "a humble farmer", "a skilled warrior",
+    "an enigmatic wizard", "a mischievous fairy", "a lost traveler", "a diligent scholar"
+  ],
+  "places": {
+    "urban_places": [
+      "an alley", "a rooftop", "a bustling market", "a quiet park", "a museum",
+      "a coffee shop", "a haunted mansion", "a high-tech city", "a crowded train station"
+    ],
+    "natural_places": [
+      "a serene beach", "a dense forest", "a mountain peak", "a tranquil garden",
+      "an underground cave", "a magical forest", "a dreamlike meadow"
+    ],
+    "special_places": [
+      "a secret lab", "a historic castle", "a lively street fair", "a remote village",
+      "a forgotten ruin"
+    ]
+  },
+  "actions": [
+    "go to", "run into", "stumble upon", "discover", "escape to", "investigate", "follow",
+    "search for", "hide in", "explore", "observe", "study", "challenge", "defend", "admire",
+    "question", "negotiate with", "befriend", "confront", "embrace", "sing to", "dance with"
+  ],
+  "objects": [
+    "a lost letter", "a mysterious artifact", "an old photograph", "a family heirloom",
+    "a futuristic gadget", "a hidden treasure", "a rare book", "a magical potion",
+    "a beautiful painting", "a broken watch", "a cryptic message", "a worn-out map",
+    "a lucky charm", "a strange symbol", "a delicate flower", "a powerful weapon",
+    "a tattered journal", "a sparkling gem", "a forgotten toy", "a captivating melody", "a mystical crystal", "an ancient scroll"
+  ],
+  "events": [
+    "uncover a secret", "challenge injustice", "embark on a quest", "make a difficult choice",
+    "face a moral dilemma", "solve a mystery", "overcome a fear", "forge a new alliance",
+    "betray a trust", "learn a valuable lesson", "celebrate a victory", "mourn a loss",
+    "discover a hidden talent", "create something beautiful", "destroy something precious",
+    "change someone’s life", "find inner peace", "defeat a powerful foe", "rescue someone in danger", "build a lasting friendship",
+    "unlock a hidden power", "reveal a hidden truth"
+  ],
+  "themes": [
+    "friendship", "mystery", "adventure", "love", "betrayal", "courage", "discovery",
+    "loss", "redemption", "conflict", "growth", "sacrifice", "justice", "power",
+    "freedom", "responsibility", "truth", "illusion", "honor", "chaos", "magic", "transformation"
+  ],
+  "weather": [
+    "sunny", "rainy", "stormy", "snowy", "foggy", "windy", "cloudy", "thunderous"
+  ]
+}
+
